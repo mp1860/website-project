@@ -1,0 +1,7 @@
+index.html
+├── memes.html
+│   └── pic carousel
+├── nature.html
+│   └── list of NPs + pics
+└── music.html
+    └── music video (youtube)
