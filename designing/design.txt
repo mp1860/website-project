@@ -1,2 +1,5 @@
 black background 
 simple design easy on the eyes and easy to navigate
+side bar for navigation
+carousel for pictures
+integrate music into music.html
